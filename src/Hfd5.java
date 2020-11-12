@@ -38,9 +38,5 @@ g.setColor(Color.BLACK);
 g.drawString("Gevulde ovaal", 185, 220);
 g.drawRoundRect(325, 160, 50, 45, 90, 90);
 g.drawString("Cirkel", 335, 225  );
-
-
-
-
     }
 }
