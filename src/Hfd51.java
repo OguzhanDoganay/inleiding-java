@@ -44,14 +44,5 @@ lijnkleur = Color.black;
         g.drawRoundRect(325, 160, 50, 45, 90, 90);
         g.drawString("Cirkel", 335, 225  );
 
-
-
-
-
-
-
-
-
-
     }
 }

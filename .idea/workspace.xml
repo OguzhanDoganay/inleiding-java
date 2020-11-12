@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98adcd22-5d26-4d70-a92f-50c2fb4bc974" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hfd51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hfd52.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hfd5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hfd5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hfd51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hfd51.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +59,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.Hfd51">
-    <configuration name="Hfd51" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hfd51" />
+  <component name="RunManager" selected="Applet.Hfd52">
+    <configuration name="Hfd52" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hfd52" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,12 +97,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Applet.Hfd51" />
+      <item itemvalue="Applet.Hfd52" />
       <item itemvalue="Application.HalloRocDev" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.Hfd51" />
+        <item itemvalue="Applet.Hfd52" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604911218552</updated>
       <workItem from="1604911219610" duration="3114000" />
-      <workItem from="1604925774702" duration="6021000" />
+      <workItem from="1604925774702" duration="8343000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1604911360222</created>
@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605003117347</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5.1">
+      <created>1605169705355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605169705355</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,41 +166,42 @@
     <MESSAGE value="TEST" />
     <MESSAGE value="nog niet klaat hfd 5" />
     <MESSAGE value="eindopdracht hfd 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="eindopdracht hfd 4" />
+    <MESSAGE value="5.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605003183768">
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605177018851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605003183768" />
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605003181529">
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605177018851" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605177017271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605003181529" />
-    <state x="376" y="0" key="CommitChangelistDialog2" timestamp="1605003116847">
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605177017271" />
+    <state x="376" y="0" key="CommitChangelistDialog2" timestamp="1605169704851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="376" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605003116847" />
+    <state x="376" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605169704851" />
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1604924772255">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604924772255" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605003189230">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605177005893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605003189230" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605003189230">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605177005893" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605177005893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605003189230" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605003189230">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605177005893" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605177005893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605003189230" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605003189230">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605177005893" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605177005893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605003189230" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605177005893" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1604925992200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
