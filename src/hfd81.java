@@ -8,6 +8,7 @@ Button knop, knop2;
 TextField tekst;
 Label stickertje;
 
+
     public void init() {
 
    knop = new Button("");
@@ -20,7 +21,6 @@ Label stickertje;
    add(stickertje);
    knop.addActionListener(new Listener());
    knop2.addActionListener(new Listener());
-
 
     }
 
@@ -53,6 +53,8 @@ class Listener implements ActionListener{
     public void actionPerformed(ActionEvent e) {
     String message = tekst.getText();
     stickertje.setText(message);
+
+
 
 
 

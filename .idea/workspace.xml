@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98adcd22-5d26-4d70-a92f-50c2fb4bc974" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hfd62.java" afterDir="false" />
+    <list default="true" id="98adcd22-5d26-4d70-a92f-50c2fb4bc974" name="Default Changelist" comment="Praktijk6">
+      <change afterPath="$PROJECT_DIR$/src/Hfd63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hfd6eind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hfd81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hfd81.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +60,9 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Applet.Hfd62">
-    <configuration name="Hfd62" type="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hfd62" />
+  <component name="RunManager" selected="Applet.hfd81">
+    <configuration name="hfd81" type="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hfd81" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,26 +84,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Applet.Hfd62" />
+      <item itemvalue="Applet.hfd81" />
       <item itemvalue="Application.HalloRocDev" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Applet.Hfd62" />
+        <item itemvalue="Applet.hfd81" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +114,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604911218552</updated>
       <workItem from="1604911219610" duration="3114000" />
-      <workItem from="1604925774702" duration="9968000" />
+      <workItem from="1604925774702" duration="12710000" />
+      <workItem from="1605380010966" duration="10920000" />
     </task>
     <task id="LOCAL-00001" summary="TEST">
       <created>1604911360222</created>
@@ -151,7 +152,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605177323285</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6.1">
+      <created>1605178884619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605178884619</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Praktijk6">
+      <created>1605523611263</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605523611263</updated>
+    </task>
+    <task id="LOCAL-00008" summary="8.1 bijna af, alleen reset knop nog">
+      <created>1605704673576</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605704673576</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +189,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TEST" />
@@ -174,41 +197,48 @@
     <MESSAGE value="eindopdracht hfd 4" />
     <MESSAGE value="5.1" />
     <MESSAGE value="6.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.1" />
+    <MESSAGE value="Praktijkhfd6" />
+    <MESSAGE value="Praktijk6" />
+    <MESSAGE value="8.1 bijna af, alleen reset knop nog" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.1 bijna af, alleen reset knop nog" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605178653180">
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605533716627">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605178653180" />
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605178651884">
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1605533716627" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1605700337384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605178651884" />
-    <state x="376" y="0" key="CommitChangelistDialog2" timestamp="1605177322748">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605700337384" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605533714848">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="376" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605177322748" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1605533714848" />
+    <state x="376" y="0" key="CommitChangelistDialog2" timestamp="1605704672910">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="376" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605704672910" />
     <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1604924772255">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604924772255" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605178644142">
+    <state width="1522" height="217" key="GridCell.Tab.0.bottom" timestamp="1605772611493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605178644142" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605178644126">
+    <state width="1522" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605772611493" />
+    <state width="1522" height="217" key="GridCell.Tab.0.center" timestamp="1605772611493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605178644126" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605178644126">
+    <state width="1522" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605772611493" />
+    <state width="1522" height="217" key="GridCell.Tab.0.left" timestamp="1605772611493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605178644126" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605178644126">
+    <state width="1522" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605772611493" />
+    <state width="1522" height="217" key="GridCell.Tab.0.right" timestamp="1605772611493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605178644126" />
+    <state width="1522" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605772611493" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1604925992200">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -217,9 +247,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604924801947" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605169226581">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605521494435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605169226581" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605521494435" />
   </component>
 </project>
